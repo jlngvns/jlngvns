@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p>
+  I am currently working on a webapp designed to help students in my school district by improving
+  building cleanliness and quality.
+  I'm very interested in machine learning and ai, so reach out to me anytime!
+</p>
+
 <!--
 **jlngvns/jlngvns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
